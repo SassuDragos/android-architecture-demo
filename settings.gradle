@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':onboardingfeature', ':domain', ':data', ':domainmodule'
 rootProject.name='My Application'
