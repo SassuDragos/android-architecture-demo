@@ -1,2 +1,2 @@
-include ':app', ':onboardingfeature', ':domain', ':data', ':domainmodule'
+include ':app', ':feature:onboarding', ':kotlinindependent'
 rootProject.name='My Application'
